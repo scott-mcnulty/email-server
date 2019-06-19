@@ -1,0 +1,7 @@
+Flask
+Flask-JWT-Extended
+Flask-RESTful
+flask-caching
+flask-cors
+yagmail
+gunicorn

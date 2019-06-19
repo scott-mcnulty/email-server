@@ -1,0 +1,1 @@
+gunicorn --reload --config server/gunicorn_config.py "server.app:create_app()"
