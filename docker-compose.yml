@@ -2,7 +2,7 @@ version: '3'
 
 services:
 
-  myapi:
+  email-server:
     build:
       context: .
       dockerfile: ./Dockerfile
